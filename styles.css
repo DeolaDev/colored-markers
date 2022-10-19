@@ -5,10 +5,10 @@ h1 {
 }
 
 .container{
-  width: 400px;
-  height: 205px;
+  width: 200px;
+  height: 175px;
   margin: 10px auto;
-  padding: 10px auto;
+  padding: 10px;
   background-color: bisque;
 }
 .markers {
