@@ -8,6 +8,7 @@ h1 {
   width: 400px;
   height: 125px;
   margin: auto;
+  background-color: bisque;
 }
 .markers {
   width: 200px;
