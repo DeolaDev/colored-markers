@@ -8,14 +8,14 @@ h1 {
   width: 200px;
   height: 245px;
   margin: 10px auto;
-  padding: 10px 20px 20px;
+  padding: 10px 20px 10px;
 }
 
 .container2{
   width: 200px;
   height: 245px;
   margin: 10px auto;
-  padding: 0 10px 20px;
+  padding: 0 10px 10px;
   background-color: beige;
 }
 
@@ -23,7 +23,7 @@ h1 {
   width: 200px;
   height: 245px;
   margin: 10px auto;
-  padding: 0 10px 20px;
+  padding: 0 10px 10px;
 }
 .markers {
   width: 200px;
