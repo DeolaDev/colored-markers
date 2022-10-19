@@ -4,6 +4,11 @@ h1 {
   color:tomato;
 }
 
+.container{
+  width: 400px;
+  height: 125px;
+  margin: auto;
+}
 .markers {
   width: 200px;
   height: 25px;
