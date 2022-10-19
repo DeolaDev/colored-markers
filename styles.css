@@ -1,10 +1,10 @@
 h1 {
   text-align: center;
-  color:blueviolet;
 }
 
 .markers {
   background-color: aquamarine;
   width: 200px;
   height: 25px;
+  margin:auto;
 }
