@@ -3,8 +3,27 @@ h1 {
 }
 
 .markers {
-  background-color: aquamarine;
   width: 200px;
   height: 25px;
   margin: 10px auto;
+}
+
+.aquamarine {
+  background-color: aquamarine;
+}
+
+.palevioletred {
+  background-color: palevioletred;
+}
+
+.teal {
+  background-color: teal;
+}
+
+.plum {
+  background-color: plum;
+}
+
+.olive {
+  background-color: olive;
 }
