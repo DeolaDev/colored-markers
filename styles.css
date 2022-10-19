@@ -6,8 +6,8 @@ h1 {
 
 .container{
   width: 400px;
-  height: 125px;
-  margin: auto;
+  height: 205px;
+  margin: 10px auto;
   background-color: bisque;
 }
 .markers {
