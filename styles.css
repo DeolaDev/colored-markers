@@ -17,22 +17,30 @@ h1 {
   margin: 10px auto;
 }
 
-.aquamarine {
-  background-color: aquamarine;
+.orange {
+  background-color: rgb(255, 127, 0);
 }
 
-.palevioletred {
-  background-color: palevioletred;
+.springgreen {
+  background-color: rgb(0, 255, 127);
 }
 
-.teal {
-  background-color: teal;
+.violet {
+  background-color: rgb(127, 0, 255);
 }
 
-.plum {
-  background-color: plum;
+.chartreusegreen {
+  background-color: rgb(127, 255, 0);
+}
+
+.azure {
+  background-color: rgb(0, 127, 255);
+}
+
+.rose {
+  background-color: rgb(255, 0, 127);
 }
 
 .olive {
-  background-color: olive;
+  background-color: rgb(127, 127, 0);
 }
