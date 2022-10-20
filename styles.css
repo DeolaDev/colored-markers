@@ -7,7 +7,7 @@ h1 {
 
 .container{
   width: 200px;
-  height: 245px;
+  height: 105px;
   margin: 10px auto;
   padding: 10px 20px 10px;
 }
@@ -15,12 +15,13 @@ h1 {
 .container2{
   width: 200px;
   height: 105px;
-  background-color: rgb(117, 77, 78);
+  margin: 10px auto;
+  background-color: rgb(117, 235, 178);
 }
 
 .container3{
   width: 200px;
-  height: 245px;
+  height: 105px;
   margin: 10px auto;
   padding: 0 10px 10px;
 }
