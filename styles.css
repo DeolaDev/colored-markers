@@ -4,6 +4,7 @@ h1 {
   color:tomato;
 }
 
+
 .container{
   width: 200px;
   height: 245px;
@@ -13,8 +14,8 @@ h1 {
 
 .container2{
   width: 200px;
-  height: 245px;
-  background-color: rgb(170, 17, 20);
+  height: 105px;
+  background-color: rgb(117, 77, 78);
 }
 
 .container3{
