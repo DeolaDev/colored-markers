@@ -9,14 +9,15 @@ h1 {
   width: 200px;
   height: 105px;
   margin: 10px auto;
-  padding: 10px 20px 10px;
+  padding: 10px 20px 0px;
 }
 
 .container2{
   width: 200px;
   height: 105px;
   margin: 10px auto;
-  background-color: rgb(117, 235, 178);
+  padding: 10px 20px 20px;
+  background-color: rgb(207, 135, 235);
 }
 
 .container3{
