@@ -6,6 +6,9 @@ h1 {
 
 hr {
   border: 1px solid rgb(70, 69, 69);
+  width: 50%;
+  max-width: 115px;
+  margin: 0px auto;
 }
 
 .container{
@@ -20,7 +23,6 @@ hr {
   height: 105px;
   margin: 10px auto;
   padding: 10px 20px 20px;
-  background-color: rgb(186, 143, 15);
 }
 
 .container3{
