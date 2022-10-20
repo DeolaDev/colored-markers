@@ -4,12 +4,12 @@ h1 {
   color:tomato;
 }
 
-hr {
+/*hr {
   border: 1px solid rgb(70, 69, 69);
   width: 50%;
   max-width: 210px;
   margin: 0px auto;
-}
+}*/
 
 .container{
   width: 200px;
