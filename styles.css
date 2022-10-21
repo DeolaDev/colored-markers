@@ -76,19 +76,19 @@ h1 {
 }
 
 .rose {
-  background-color: rgb(255, 0, 127);
+  background: linear-gradient(rgb(255, 0, 127),rgb(250, 113, 182),rgb(255, 0, 127));
   box-shadow: 2px 2px 10px 0 rgb(255, 0, 127);
 }
 
 .olive {
-  background-color: rgb(127, 127, 0);
+  background: linear-gradient(rgb(127, 127, 0),rgb(225, 225, 9),rgb(154, 154, 2));
   box-shadow: 2px 2px 10px 0 rgb(127, 127, 0);
 }
 .purple {
-  background-color: rgb(127, 0, 127);
+  background: linear-gradient(rgb(127, 0, 127),rgb(220, 24, 220),rgb(155, 1, 155));
   box-shadow: 2px 2px 10px 0 rgb(127, 0, 127);
 }
 .teal {
-  background-color: rgb(0, 127, 127);
+  background: linear-gradient(rgb(0, 127, 127),rgb(26, 202, 202),rgb(1, 152, 152));
   box-shadow: 2px 2px 10px 0 rgb(0, 127, 127);
 }
