@@ -60,8 +60,8 @@ h1 {
 }
 
 .violet {
-  background: rgb(127, 0, 255);
-  box-shadow: 4px 4px 10px 0 rgb(0, 255, 127);
+  background: linear-gradient(rgb(127, 0, 255),rgb(199, 145, 253), rgb(127, 0, 255));
+  box-shadow: 4px 4px 10px 0 rgb(127, 2, 255);
 
 }
 
