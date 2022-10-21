@@ -1,4 +1,4 @@
-# coloredmarkers
+# colored-crayons
 
 Repository for my CSS Colored Crayons practice project
 

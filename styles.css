@@ -66,12 +66,12 @@ h1 {
 }
 
 .chartreusegreen {
-  background-color: rgb(127, 255, 0);
+  background: linear-gradient(rgb(102, 198, 6), rgb(192, 254, 129));
   box-shadow: 2px 2px 10px 0 rgb(127, 255, 0);
 }
 
 .azure {
-  background-color: rgb(0, 127, 255);
+  background: linear-gradient(rgb(2, 88, 174), rgb(111, 180, 250), rgb(0, 127, 255));
   box-shadow: 2px 2px 10px 0 rgb(0, 127, 255);
 }
 
